@@ -13,8 +13,8 @@
 | RE     | Cynosure | just run it        |
 | RE     | Cynosure | ccccha             |
 | RE     | Cynosure | Ovm                |
-| RE     | Cynosure | cyberpunk          |
-| RE     | Cynosure | cyberpunk_2        |
+| RE     | LovenSar | cyberpunk          |
+| RE     | Lovensar | cyberpunk_2        |
 |        |          |                    |
 | CRYPTO | To1in    | superecc           |
 | CRYPTO | To1in    | coloratura         |
