@@ -1,0 +1,5 @@
+{
+    "imports": {
+      "https://deno.land/std/hash/mod.ts": "https://deno.land/std@0.160.0/hash/mod.ts"
+    }
+}
