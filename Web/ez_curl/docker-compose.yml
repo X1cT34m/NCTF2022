@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  front-end:
+    build: ./front-end
+    restart: always
+    ports:
+      - '2333:80'
+  back-end:
+    build: ./back-end
+    restart: always
+    environment:
+      - flag=flag{23aaaab824aadf15eb19f4236f3e3b51}
